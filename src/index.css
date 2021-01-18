@@ -144,6 +144,7 @@ Color Generator
   text-align: center;
   display: flex;
   align-items: center;
+  justify-content: center;
   height: 100px;
   padding-left: 2rem;
 }
